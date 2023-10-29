@@ -3,7 +3,7 @@ Arcade games list and their configurations for playing them in your SimRacing ri
 
 ## Volante
 
-# PC:
+### PC:
 
 Cannonball (OutRun enhanced)
 OutRun 2006 con FXT mod
@@ -11,13 +11,13 @@ Hotshot racing con x360ce
 Initial Unity con x360ce
 Sega Rally Revo
 
-# DuckStation:
+### DuckStation:
 
 Gran Turismo 1 neGcon emulation
 Gran Turismo 2 neGcon emulation
 Initial D
 
-# pcsx2:
+### pcsx2:
 
 Gran Turismo 3 usbQemu plugin
 Gran Turismo 4
@@ -25,7 +25,7 @@ Enthusia
 AutoModellista
 Initial D
 
-# DOSBox:
+### DOSBox:
 
 Indianapolis 500
 Nascar Racing
@@ -35,28 +35,28 @@ Indycar Racing 2
 Grand Prix 
 Grand Prix 2
 
-# M2 emulator:
+### M2 emulator:
 
 Daytona USA
 Sega Rally
 Indianapolis 500
 Sega Touring Car Championship
 
-# Sega Model 3 UI:
+### Sega Model 3 UI:
 
 Sega Rally 2
 Daytona USA 2
 LeMans24
 Scud Race
 
-# TeknoParrot:
+### TeknoParrot:
 
 Initial D stage 4
 Initial D stage zero
 
 ## Mando
 
-# PC:
+### PC:
 
 Horizon Chase
 Horizon Chase 2
@@ -66,7 +66,7 @@ Generally
 Sonic and Sega All Star Racing
 
 
-# bSnes:
+### bSnes:
 
 TopGear bsnes emulator
 
